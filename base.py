@@ -1,4 +1,3 @@
-import numpy as np
 import tensorflow as tf
 
 gpu = tf.config.experimental.list_physical_devices("GPU")
